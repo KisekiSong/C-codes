@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "I:\\C_code\\2025\\test_3_15\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6CF9B67C-AA4E-40CF-846A-C8F3D50B55F4}|test_3_15.vcxproj|I:\\C_code\\2025\\test_3_15\\function_arry.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6CF9B67C-AA4E-40CF-846A-C8F3D50B55F4}|test_3_15.vcxproj|solutionrelative:function_arry.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CF9B67C-AA4E-40CF-846A-C8F3D50B55F4}|test_3_15.vcxproj|I:\\C_code\\2025\\test_3_15\\charptr.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6CF9B67C-AA4E-40CF-846A-C8F3D50B55F4}|test_3_15.vcxproj|solutionrelative:charptr.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CF9B67C-AA4E-40CF-846A-C8F3D50B55F4}|test_3_15.vcxproj|I:\\C_code\\2025\\test_3_15\\function_pointer.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6CF9B67C-AA4E-40CF-846A-C8F3D50B55F4}|test_3_15.vcxproj|solutionrelative:function_pointer.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "function_arry.c",
+              "DocumentMoniker": "I:\\C_code\\2025\\test_3_15\\function_arry.c",
+              "RelativeDocumentMoniker": "function_arry.c",
+              "ToolTip": "I:\\C_code\\2025\\test_3_15\\function_arry.c",
+              "RelativeToolTip": "function_arry.c",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB4AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-15T09:35:11.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "function_pointer.c",
+              "DocumentMoniker": "I:\\C_code\\2025\\test_3_15\\function_pointer.c",
+              "RelativeDocumentMoniker": "function_pointer.c",
+              "ToolTip": "I:\\C_code\\2025\\test_3_15\\function_pointer.c",
+              "RelativeToolTip": "function_pointer.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-15T08:40:49.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "charptr.c",
+              "DocumentMoniker": "I:\\C_code\\2025\\test_3_15\\charptr.c",
+              "RelativeDocumentMoniker": "charptr.c",
+              "ToolTip": "I:\\C_code\\2025\\test_3_15\\charptr.c",
+              "RelativeToolTip": "charptr.c",
+              "ViewState": "AQIAACMAAAAAAAAAAADwvyUAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-15T03:16:50.648Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
