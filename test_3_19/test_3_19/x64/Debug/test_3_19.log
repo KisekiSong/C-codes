@@ -1,0 +1,12 @@
+﻿  test_pointer_final.c
+I:\C_code\2025\test_3_19\test_pointer_final.c(7,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+I:\C_code\2025\test_3_19\test_pointer_final.c(8,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+I:\C_code\2025\test_3_19\test_pointer_final.c(9,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+I:\C_code\2025\test_3_19\test_pointer_final.c(10,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+I:\C_code\2025\test_3_19\test_pointer_final.c(11,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+I:\C_code\2025\test_3_19\test_pointer_final.c(12,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+I:\C_code\2025\test_3_19\test_pointer_final.c(13,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+I:\C_code\2025\test_3_19\test_pointer_final.c(14,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+I:\C_code\2025\test_3_19\test_pointer_final.c(15,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+I:\C_code\2025\test_3_19\test_pointer_final.c(16,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+  test_3_19.vcxproj -> I:\C_code\2025\test_3_19\x64\Debug\test_3_19.exe

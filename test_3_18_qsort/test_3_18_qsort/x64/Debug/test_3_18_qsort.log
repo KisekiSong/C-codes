@@ -1,0 +1,3 @@
+﻿  qsort_test.c
+I:\C_code\2025\test_3_18_qsort\qsort_test.c(38,1): warning C4716: “compar_uestc_grade”: 必须返回一个值
+  test_3_18_qsort.vcxproj -> I:\C_code\2025\test_3_18_qsort\x64\Debug\test_3_18_qsort.exe
