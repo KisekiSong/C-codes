@@ -1,0 +1,4 @@
+﻿  str_fun_1.c
+I:\C_code\2025\str_fun_1\str_fun_1.c(47,9): warning C4047: “return”:“char *”与“int”的间接级别不同
+I:\C_code\2025\str_fun_1\str_fun_1.c(50,9): warning C4047: “return”:“char *”与“int”的间接级别不同
+  str_fun_1.vcxproj -> I:\C_code\2025\str_fun_1\x64\Debug\str_fun_1.exe
