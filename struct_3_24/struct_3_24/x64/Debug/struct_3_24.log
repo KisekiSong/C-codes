@@ -1,0 +1,4 @@
+﻿  test.c
+I:\C_code\2025\struct_3_24\test.c(18,12): warning C4101: “s3”: 未引用的局部变量
+I:\C_code\2025\struct_3_24\test.c(20,12): warning C4101: “s4”: 未引用的局部变量
+  struct_3_24.vcxproj -> I:\C_code\2025\struct_3_24\x64\Debug\struct_3_24.exe
