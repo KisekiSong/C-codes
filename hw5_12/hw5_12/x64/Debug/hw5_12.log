@@ -1,0 +1,3 @@
+﻿  hw512.c
+I:\C_code\2025\hw5_12\hw512.c(215,1): warning C4715: “month_to_days”: 不是所有的控件路径都返回值
+  hw5_12.vcxproj -> I:\C_code\2025\hw5_12\x64\Debug\hw5_12.exe
