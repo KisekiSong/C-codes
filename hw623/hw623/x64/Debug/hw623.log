@@ -1,0 +1,5 @@
+﻿  test.c
+I:\C_code\2025\hw623\test.c(383,10): warning C4047: “函数”:“const char *”与“void *(__cdecl *)(size_t,size_t)”的间接级别不同
+I:\C_code\2025\hw623\test.c(383,10): warning C4024: “perror”: 形参和实参 1 的类型不同
+I:\C_code\2025\hw623\test.c(386,2): warning C4013: “memmove”未定义；假设外部返回 int
+  hw623.vcxproj -> I:\C_code\2025\hw623\x64\Debug\hw623.exe

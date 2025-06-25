@@ -1,0 +1,4 @@
+﻿  递归.c
+I:\C_code\2025\hw624\递归.c(165,3): warning C4033: “DigitPrint_Order”必须返回值
+I:\C_code\2025\hw624\递归.c(169,1): warning C4716: “DigitPrint_Order”: 必须返回一个值
+  hw624.vcxproj -> I:\C_code\2025\hw624\x64\Debug\hw624.exe

@@ -1,0 +1,4 @@
+﻿  test1.c
+I:\C_code\2025\hw622\test1.c(55,2): warning C4013: “memcpy”未定义；假设外部返回 int
+I:\C_code\2025\hw622\test1.c(63,1): warning C4716: “even_odd_grouping”: 必须返回一个值
+  hw622.vcxproj -> I:\C_code\2025\hw622\x64\Debug\hw622.exe
